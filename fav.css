@@ -1,0 +1,21 @@
+.overlay-text {
+    display: none;
+    justify-content: center;
+}
+.poster:hover .overlay-text {
+	display: flex;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: black;
+	color: white;
+	font-size: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.overlay-text p {
+    justify-content: center;
+    padding-top: 20px;
+    display: flex;
+    text-align: center;
+}
