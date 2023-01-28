@@ -1,7 +1,7 @@
 # USC-class-ranking-website
-USC Class Ranker
+## USC Class Ranker
 
-brief summary of the functionalities:
+## Brief summary of the functionalities:
 
 
 Sign up for an account, Log in, Log out
